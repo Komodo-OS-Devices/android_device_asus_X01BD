@@ -1,12 +1,14 @@
 [
   {
-    "repository":  "kernel_asus_X01BD",
-    "target_path": "kernel/asus/sdm660"
+    "remote": "github",
+    "repository": "Komodo-OS-Devices/kernel_asus_X01BD",
+    "target_path": "kernel/asus/sdm660",
     "branch": "ten"
   },
   {
-    "repository":  "android_vendor_asus_X01BD",
-    "target_path": "vendor/asus/X01BD"
+    "remote": "github",
+    "repository": "Komodo-OS-Devices/vendor_asus_X01BD",
+    "target_path": "vendor/asus/X01BD",
     "branch": "ten"
   }
 ]
