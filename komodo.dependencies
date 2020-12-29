@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "Komodo-OS-Devices/kernel_asus_X01BD",
+    "repository": "wahyu17/Aegis-10-CAF",
     "target_path": "kernel/asus/sdm660",
     "branch": "LA.UM.8.2.r1-07500-sdm660.0"
   },
